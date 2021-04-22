@@ -1,7 +1,7 @@
 <h1>Christmas scene using 3-D graphics</h1>
 <h3>We have recreated a peaceful Christmas Eve night.<h3>
 
-
+<p>We used OpenGL to create this scene</p>
 Merry Christmas!
 <ul>
  <li>Full Scene</li>
