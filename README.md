@@ -1,7 +1,8 @@
 <h1>Christmas scene using 3-D graphics</h1>
 <h3>We have recreated a peaceful Christmas Eve night.<h3>
 
-<p>We used OpenGL to create this scene</p>
+<p>We used OpenGL to create this scene
+ </p>
 Merry Christmas!
 <ul>
  <li>Full Scene</li>
@@ -31,3 +32,13 @@ Merry Christmas!
  <li>Background Forest</li>
 
 <img src="https://github.com/saloni-singh14/3D-Graphics-Christmas/blob/master/doc_images/backgroundForest.png" alt="drawing" width="500" /><br><br>
+ 
+ <p>
+  Contributors:
+  <ul>
+   <li>Pranav Jibhakate</li>
+   <li>Saloni Singh</li>
+ </ul>
+ Project done as part of course Computer Graphics(IS F311)
+ </p>
+ 
