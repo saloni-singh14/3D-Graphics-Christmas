@@ -1,0 +1,23 @@
+name: Doxygen Documentation
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push the generated documentation
+      pages: write    # Needed for GitHub Pages deployment
+      id-token: write # Needed for GitHub Pages deployment
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Deploy Doxygen to GitHub Pages
+        uses: DenverCoder1/doxygen-github-pages-action@v2.0.0 
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          folder: Documentation/html 
+          branch: gh-pages 
