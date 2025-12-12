@@ -1,4 +1,4 @@
-<h1>[Christmas scene using 3-D graphics]([url](https://saloni-singh14.github.io/3D-Graphics-Christmas/index.html))</h1>
+<h1>Christmas scene using 3-D graphics</h1>
 <h3>We have recreated a peaceful Christmas Eve night.<h3>
  Documentation link - https://saloni-singh14.github.io/3D-Graphics-Christmas/index.html
   <p>
